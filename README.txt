@@ -1,7 +1,8 @@
 
 
-记录execv 的调用参数 到 /tmp/execv.log
+记录 execv 的调用参数 到 /tmp/execv.log
 
+仅仅是原型系统，使用请慎重。
 
 使用方式：
 
